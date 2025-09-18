@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UDP Streaming Client</string>
+    <string name="server_address">Server Address</string>
+    <string name="server_port">Server Port</string>
+    <string name="imei">IMEI</string>
+    <string name="randomize">Randomize</string>
+    <string name="reset">Reset</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="default_server_address">ptt.hijamaah.com</string>
+</resources>
